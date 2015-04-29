@@ -1,18 +1,18 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="controls_repeat" id="20" inline="true" x="-4" y="41">
+  <block type="controls_repeat" id="1" inline="true" x="-4" y="41">
     <value name="TIMES">
-      <block type="math_number" id="27">
+      <block type="math_number" id="2">
         <field name="NUM">133333</field>
       </block>
     </value>
     <statement name="DO">
-      <block type="movement_forward" id="10"></block>
+      <block type="movement_forward" id="3"></block>
     </statement>
     <next>
-      <block type="multimedia_playwav" id="34">
-        <field name="WAV">C:\Users\Javer_000\Documents\hello.wma</field>
+      <block type="multimedia_playwav" id="4">
+        <field name="WAV"></field>
         <next>
-          <block type="multimedia_volume" id="81">
+          <block type="multimedia_volume" id="5">
             <field name="VOLUME">HIGH</field>
           </block>
         </next>
