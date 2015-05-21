@@ -10,7 +10,7 @@
     </statement>
     <next>
       <block type="multimedia_playwav" id="4">
-        <field name="WAV">hello.wav</field>
+        <field name="WAV"></field>
       </block>
     </next>
   </block>
