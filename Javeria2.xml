@@ -8,10 +8,8 @@
     <statement name="DO">
       <block type="movement_forward" id="3"></block>
     </statement>
-    <next>
-      <block type="multimedia_playwav" id="4">
-        <field name="WAV">hello.wav</field>
-      </block>
-    </next>
+  </block>
+  <block type="multimedia_playwav" id="4" x="17" y="171">
+    <field name="WAV">hello.wav</field>
   </block>
 </xml>
