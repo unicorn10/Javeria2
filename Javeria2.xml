@@ -9,7 +9,7 @@
       <block type="movement_forward" id="3"></block>
     </statement>
     <next>
-      <block type="multimedia_playwav" id="10">
+      <block type="multimedia_playwav" id="4">
         <field name="WAV">hello.wav</field>
       </block>
     </next>
