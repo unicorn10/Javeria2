@@ -1,5 +1,5 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="controls_repeat" id="1" inline="true" x="-4" y="41">
+  <block type="controls_repeat" id="1" inline="true" x="-627" y="-99">
     <value name="TIMES">
       <block type="math_number" id="2">
         <field name="NUM">133333</field>
@@ -8,10 +8,5 @@
     <statement name="DO">
       <block type="movement_forward" id="3"></block>
     </statement>
-    <next>
-      <block type="multimedia_playwav" id="4">
-        <field name="WAV"></field>
-      </block>
-    </next>
   </block>
 </xml>
